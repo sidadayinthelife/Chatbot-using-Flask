@@ -1,0 +1,6 @@
+Who is the director of the college?
+Manoranjan Kalita
+What is the name of your college?
+Assam DonBosco University
+Where can I find more information about ADBU?
+For more information on college Assam DonBosco University click <a href="http://www.dbuniversity.ac.in" target="_blank">here</a>
